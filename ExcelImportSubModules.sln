@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelImportSubModules", "ExcelImportSubModules\ExcelImportSubModules.csproj", "{460E646B-BD2F-41CB-86C4-1F9D36DCECA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "..\ServerSubModules\Shared\Shared.csproj", "{06C77286-144B-47A8-A28C-560FD2089712}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Submodules\Server\Shared\Shared.csproj", "{06C77286-144B-47A8-A28C-560FD2089712}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
