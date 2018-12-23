@@ -15,6 +15,7 @@ namespace ExcelImportSubModules
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine(Shared.Constants.IdColumn);
         }
     }
 }
