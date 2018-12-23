@@ -1,0 +1,3 @@
+[submodule "Submodules/Server"]
+	path = Submodules/Server
+	url = https://github.com/ll9/ServerSubModules
